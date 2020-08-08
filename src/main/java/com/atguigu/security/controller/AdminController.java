@@ -11,6 +11,6 @@ public class AdminController {
 		return "main";
 	}
 	//xiughao
-	//ssss
+	//sssstrye
 
 }
